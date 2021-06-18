@@ -1,5 +1,6 @@
 <resources>
     <string name="app_name">Traveller Backpack</string>
+    <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
     <string name="text_will_be_shown_here">Text will be shown here</string>
     <string name="enter_text">Enter Text</string>
