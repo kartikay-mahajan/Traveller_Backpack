@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Traveller Backpack</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="text_will_be_shown_here">Text will be shown here</string>
+    <string name="enter_text">Enter Text</string>
+    <string name="choose_language">Choose Language</string>
+    <string name="translate">Translate</string>
+    <string name="output_text">Output Text</string>
+    <string name="scan">Scan</string>
+    <string name="maps">MAPS</string>
+</resources>
